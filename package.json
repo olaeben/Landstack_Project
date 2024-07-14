@@ -1,0 +1,21 @@
+{
+  "name": "landstack_project",
+  "version": "1.0.0",
+  "description": "Landstack Automation Testing Challenge Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run",
+    "testui": "npx cypress open"
+  },
+  "author": "Olawale Ibitoye",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/cypress": "^1.1.3",
+    "@types/node": "^20.14.10",
+    "cypress": "^13.13.0",
+    "typescript": "^5.5.3"
+  },
+  "dependencies": {
+
+  }
+}
